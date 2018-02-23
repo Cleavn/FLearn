@@ -45,7 +45,7 @@ public class Category {
         this.categoryID = categoryID;
     }
 
-    static int categoryToDrawable(CategoryColor categoryColor){
+    static int setCategoryColor(CategoryColor categoryColor){
         switch (categoryColor){
             case RAW:
 
