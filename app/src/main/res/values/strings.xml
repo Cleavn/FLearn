@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FLearn</string>
+    <string name="categoryname">CATEGORYNAME</string>
+    <string name="categorydescr">CATEGORYDESCR</string>
+</resources>
